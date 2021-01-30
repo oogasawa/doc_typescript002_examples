@@ -1,0 +1,1 @@
+# doc_typescript002_examples
